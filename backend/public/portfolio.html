@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Praveen Kumar B - Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #0f0f23; /* Dark background color */
+            color: #00ff41; /* Matrix green text color */
+            overflow-x: hidden;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(180deg, rgba(15, 15, 35, 1) 0%, rgba(0, 0, 10, 1) 100%);
+            z-index: -1;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Roboto Mono', monospace;
+        }
+
+        .glow {
+            text-shadow: 0 0 5px #00ff41, 0 0 10px #00ff41, 0 0 20px #00ff41, 0 0 40px #00ff41;
+        }
+
+        .section:hover {
+            transform: scale(1.02);
+            transition: transform 0.3s ease-in-out;
+        }
+        
+        .section {
+            padding: 2rem;
+            border-radius: 0.5rem;
+            transition: transform 0.3s ease-in-out;
+            background: rgba(10, 10, 20, 0.8);
+            margin-bottom: 2rem;
+        }
+
+        a {
+            color: #00ff41;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body class="text-white">
+    <!-- Hero Section -->
+    <section id="hero" class="min-h-screen flex flex-col justify-center items-center text-center animate-fade-in">
+        <h1 class="text-6xl font-bold mb-4 glow">Praveen Kumar B</h1>
+        <p class="text-2xl mb-6 glow">Computer Science and Engineering Graduate</p>
+        <p class="text-lg max-w-2xl mx-auto glow">A highly motivated and detail-oriented Computer Science and Engineering graduate eager to apply my programming skills. Passionate about learning new technologies, solving complex problems, and contributing to innovative projects while continuously enhancing my technical and professional skills.</p>
+        <!-- Navigation links can be added here as well-->
+        <div class="mt-8">
+            <a href="#about" class="text-xl mr-4 hover:text-gray-400">About Me</a>
+            <a href="#skills" class="text-xl mr-4 hover:text-gray-400">Skills</a>
+            <a href="#projects" class="text-xl mr-4 hover:text-gray-400">Projects</a>
+            <a href="#education" class="text-xl mr-4 hover:text-gray-400">Education</a>
+            <a href="#contact" class="text-xl hover:text-gray-400">Contact</a>
+        </div>
+    </section>
+
+    <!-- About Me Section -->
+    <section id="about" class="section mx-auto max-w-6xl animate-fade-in">
+        <h2 class="text-4xl font-bold mb-4 glow">About Me</h2>
+        <p class="text-lg">I am a highly motivated and detail-oriented Computer Science and Engineering graduate eager to apply my programming skills. I am passionate about learning new technologies, solving complex problems, and contributing to innovative projects while continuously enhancing my technical and professional skills.</p>
+        <p class="text-lg mt-4">My primary goal is to apply my programming skills in a professional setting where I can make a significant impact. I thrive in environments that challenge me to learn and grow continuously. Whether it’s developing dynamic web applications like the Mars Curiosity Rover Exploration Website or working on backend API CRUD operations using Node.js and MongoDB, I am passionate about delivering high-quality results.</p>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills" class="section mx-auto max-w-6xl animate-fade-in">
+        <h2 class="text-4xl font-bold mb-4 glow">Skills</h2>
+        <ul class="list-disc list-inside ml-4">
+            <li><strong>Languages:</strong> Python, C#, JavaScript, SQL</li>
+            <li><strong>Database:</strong> MongoDB</li>
+            <li><strong>Libraries/Frameworks:</strong> React.js, Node.js</li>
+            <li><strong>Tools/Platforms:</strong> npm, VS Code, Postman</li>
+            <li><strong>Soft Skills:</strong> Communication, Problem-solving, Adaptability</li>
+        </ul>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section mx-auto max-w-6xl animate-fade-in">
+        <h2 class="text-4xl font-bold mb-4 glow">Projects</h2>
+        <div class="mb-8">
+            <h3 class="text-2xl font-bold mb-2 glow">Mars Curiosity Rover Exploration Website</h3>
+            <p><strong>Technologies used:</strong> React.js, NASA APIs, Axios, Material-UI</p>
+            <p>Developed a dynamic and interactive web application showcasing images captured by NASA's Mars Curiosity. Integrated NASA APIs to fetch and display real-time rover images and data, enhancing the user's exploration experience.</p>
+            <p><strong>Reference:</strong> <a href="https://curiosity-sigma.vercel.app/" target="_blank" rel="noopener noreferrer">https://curiosity-sigma.vercel.app/</a></p>
+        </div>
+        <div class="mb-8">
+            <h3 class="text-2xl font-bold mb-2 glow">API CRUD Operations Implementation</h3>
+            <p><strong>Technologies used:</strong> Node.js, Express.js, MongoDB, Postman</p>
+            <p>Designed and implemented RESTful APIs with full CRUD functionality to manage a database of user profiles. Developed backend endpoints for Create (POST), Read (GET), Update (PUT), and Delete (DELETE) operations using Express.js and MongoDB. Integrated JWT Authentication for secure user authentication and authorization of API requests.</p>
+        </div>
+        <div class="mb-8">
+            <h3 class="text-2xl font-bold mb-2 glow">Analyse the COVID-19 Data</h3>
+            <p
