@@ -32,7 +32,8 @@ const GOOGLE_CLIENT_ID = process.env.GOOGLE_CLIENT_ID;
 
 // CORS Configuration
 const allowedOrigins = [
-  "http://localhost:3001",
+  
+  "https://nova-1-iw3i.onrender.com"
   
   
 ];
