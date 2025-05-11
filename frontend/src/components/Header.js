@@ -17,7 +17,7 @@ const Header = () => {
 
   const handleLoginSuccess = async (tokenResponse) => {
     try {
-      const res = await fetch("http://localhost:5000/auth/google/callback", {
+      const res = await fetch("https://nova-rioy.onrender.com/auth/google/callback", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -47,7 +47,7 @@ console.log(data.token);
     const token = localStorage.getItem("token");
     if (token) {
       try {
-        const res = await fetch("http://localhost:5000/protected", {
+        const res = await fetch("https://nova-rioy.onrender.com/protected", {
           method: "GET",
           headers: {
             Authorization: `Bearer ${token}`,

@@ -158,7 +158,7 @@ Return only a complete standalone HTML file that starts with <!DOCTYPE html>.`;
     const outputPath = path.join(__dirname, "public", "index.html");
     fs.writeFileSync(outputPath, html, "utf8");
 
-    res.json({ message: "Portfolio generated", previewUrl: "http://localhost:5000/index.html" });
+    res.json({ message: "Portfolio generated", previewUrl: "https://nova-rioy.onrender.com/index.html" });
   } catch (err) {
     console.error("AI generation error:", err.response?.data || err.message);
     res.status(500).json({ error: "AI generation failed", details: err.message });

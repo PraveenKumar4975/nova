@@ -54,7 +54,7 @@ const ResumeUpload = () => {
     try {
       setLoading(true);
       const res = await axios.post(
-        "http://localhost:5000/upload-resume", 
+        "https://nova-rioy.onrender.com/upload-resume", 
         formData, 
         {
           headers: {
@@ -77,8 +77,8 @@ const ResumeUpload = () => {
   const generatePortfolio = async () => {
     setLoading(true);
     try {
-      await axios.post("http://localhost:5000/generate-portfolio");
-      setPreviewURL("http://localhost:5000/preview-portfolio?" + Date.now());
+      await axios.post("https://nova-rioy.onrender.com/generate-portfolio");
+      setPreviewURL("https://nova-rioy.onrender.com/preview-portfolio?" + Date.now());
     } catch (err) {
       alert("Portfolio generation failed.");
     } finally {
@@ -90,10 +90,10 @@ const ResumeUpload = () => {
     if (!customPrompt.trim()) return;
     setLoading(true);
     try {
-      await axios.post("http://localhost:5000/customize-portfolio", {
+      await axios.post("https://nova-rioy.onrender.com/customize-portfolio", {
         userPrompt: customPrompt,
       });
-      setPreviewURL("http://localhost:5000/preview-portfolio?" + Date.now());
+      setPreviewURL("https://nova-rioy.onrender.com/preview-portfolio?" + Date.now());
     } catch (err) {
       alert("Customization failed.");
     } finally {
@@ -104,7 +104,7 @@ const ResumeUpload = () => {
   const deployPortfolio = async () => {
     setLoading(true);
     try {
-      const res = await axios.post("http://localhost:5000/deploy-portfolio");
+      const res = await axios.post("https://nova-rioy.onrender.com/deploy-portfolio");
       setDeployedURL(res.data.deployedUrl);
     } catch (err) {
       alert("Deployment failed.");
@@ -115,7 +115,7 @@ const ResumeUpload = () => {
   //mail
   const sendEmail = async () => {
     try {
-      await axios.post("http://localhost:5000/send-email", {
+      await axios.post("https://nova-rioy.onrender.com/send-email", {
         to: parsedData?.parsed?.contact?.email,
         deployedURL: deployedURL,
       });
