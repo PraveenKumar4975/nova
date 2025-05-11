@@ -156,10 +156,10 @@ Return only a complete standalone HTML file that starts with <!DOCTYPE html>.`;
     );
 
     const html = aiResponse.data.choices[0].message.content;
-    const outputPath = path.join(__dirname, "public", "index.html");
+const outputPath = path.join("/tmp", "index.html");
     fs.writeFileSync(outputPath, html, "utf8");
 
-    res.json({ message: "Portfolio generated", previewUrl: "https://nova-rioy.onrender.com/index.html" });
+    res.json({ message: "Portfolio generated", previewUrl: "/preview" });
   } catch (err) {
     console.error("AI generation error:", err.response?.data || err.message);
     res.status(500).json({ error: "AI generation failed", details: err.message });
@@ -175,6 +175,10 @@ app.get("/preview-portfolio", (req, res) => {
     res.status(404).send("No generated portfolio found.");
   }
 });
+app.get("/preview", (req, res) => {
+  res.sendFile(path.join("/tmp", "index.html"));
+});
+
 
 // Customize Portfolio
 app.post("/customize-portfolio", async (req, res) => {
