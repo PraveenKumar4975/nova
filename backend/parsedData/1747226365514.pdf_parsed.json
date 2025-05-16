@@ -1,0 +1,149 @@
+{
+  "parsed": {
+    "name": "Praveen Kumar B",
+    "title": "Full-Stack Developer",
+    "brief": "Computer Science graduate with expertise in full-stack development, RESTful API integration. Built 3+ projects using React.js, Node.js, and MongoDB. Certified in MongoDB, Full-Stack Development, and AI.",
+    "contact": {
+      "location_city": null,
+      "location_country": "India",
+      "email": "ppb4975@gmail.com",
+      "phone": "+91 8754661074",
+      "linkedin": "linkedin.com/in/praveen-kumar-b-615b5924a",
+      "github": null,
+      "twitter": null,
+      "website": null
+    },
+    "employment_history": [
+      {
+        "title": "Intern",
+        "company": "TechnoHacks Solutions Private Limited",
+        "company_website": null,
+        "location": "Chennai, India",
+        "start_date": null,
+        "end_date": null,
+        "roles": [
+          {
+            "role": "Intern",
+            "responsibilities": [
+              "Improved internship experience by efficiently managing assigned tasks and meeting deadlines.",
+              "Gained practical experience in various aspects of the field, applying academic knowledge to real-world situations.",
+              "Developed professional skills through hands-on experiences, including time management and effective communication."
+            ]
+          }
+        ],
+        "responsibilities": []
+      },
+      {
+        "title": "Full-Stack Developer",
+        "company": "Mars Curiosity Rover Web App",
+        "company_website": "https://curiosity-sigma.vercel.app",
+        "location": null,
+        "start_date": null,
+        "end_date": null,
+        "roles": [
+          {
+            "role": "Developer",
+            "responsibilities": [
+              "Integrated NASA’s Open API to display real-time rover images, reducing data latency by 30% through Axios optimization.",
+              "Designed a responsive UI using Material-UI."
+            ]
+          }
+        ],
+        "responsibilities": []
+      },
+      {
+        "title": "Backend Developer",
+        "company": "User Profile Management System",
+        "company_website": null,
+        "location": null,
+        "start_date": null,
+        "end_date": null,
+        "roles": [
+          {
+            "role": "Developer",
+            "responsibilities": [
+              "Developed RESTful APIs with CRUD operations to manage 1,000+ user profiles, enhancing data retrieval speed by 40%.",
+              "Implemented JWT authentication, reducing unauthorized access incidents by 90%.",
+              "Optimized MongoDB indexing, achieving <200ms average response time."
+            ]
+          }
+        ],
+        "responsibilities": []
+      },
+      {
+        "title": "Data Analyst",
+        "company": "COVID-19 Vaccination Analysis",
+        "company_website": null,
+        "location": null,
+        "start_date": null,
+        "end_date": null,
+        "roles": [
+          {
+            "role": "Analyst",
+            "responsibilities": [
+              "Analyzed 50,000+ patient records to track Covishield vaccination rates across 15 Indian states.",
+              "Created interactive Power BI dashboards to visualize state-wise trends, improving stakeholder decision-making efficiency by 35%."
+            ]
+          }
+        ],
+        "responsibilities": []
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Engineering in Computer Science",
+        "institution_name": "Mailam Engineering College",
+        "institution_country": "India",
+        "start_date": "2021-07-01",
+        "end_date": null
+      },
+      {
+        "degree": "HSC & SSLC",
+        "institution_name": "St. Francis Matriculation Higher Secondary School",
+        "institution_country": "India",
+        "start_date": "2019-04-01",
+        "end_date": "2021-05-01"
+      }
+    ],
+    "skills": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "VS Code",
+      "npm",
+      "Power BI",
+      "Postman"
+    ],
+    "courses": [
+      "Full-Stack Development Workshop",
+      "AI & Computer Vision Masterclass"
+    ],
+    "languages": [],
+    "references": [],
+    "derived": {
+      "years_of_experience": 2,
+      "approximate_age": 22
+    },
+    "driving_license_present": null,
+    "driving_license_id": null
+  },
+  "normalized_text": "Praveen Kumar B\n\nPhone: +91 8754661074 | Email: ppb4975@gmail.com\nLinkedIn: linkedin.com/in/praveen-kumar-b-615b5924a\n\nPROFESSIONAL SUMMARY\n\nComputer Science graduate with expertise in full-stack development and RESTful API integration. Built 3+ projects using React.js, Node.js, and MongoDB. Certified in MongoDB, Full-Stack Development, and AI.\n\nEDUCATION\n\nBachelor of Engineering in Computer Science\nMailam Engineering College | July 2021 – Present | CGPA: 8.2/10\n\nHSC & SSLC\nSt. Francis Matriculation Higher Secondary School | April 2019 – May 2021 | Score: 90.5%\n\nTECHNICAL SKILLS\n\nProgramming Languages: Python, JavaScript, SQL\nFrontend Development: React.js\nBackend Development: Node.js, Express.js\nDatabases: MongoDB, SQL\nTools: Postman, VS Code, npm, Power BI\n\nINTERNSHIP\n\nTechnoHacks Solutions Private Limited — Chennai\nImproved internship experience by efficiently managing assigned tasks and meeting deadlines. Gained practical experience in various aspects of the field, applying academic knowledge to real-world situations. Developed professional skills through hands-on experiences, including time management and effective communication.\n\nPROFESSIONAL EXPERIENCE\n\nFull-Stack Developer | Mars Curiosity Rover Web App\nTechnologies: React.js, NASA API, Node.js, MongoDB\nIntegrated NASA’s Open API to display real-time rover images, reducing data latency by 30% through Axios optimization. Designed a responsive UI using Material-UI. Reference: https://curiosity-sigma.vercel.app\n\nBackend Developer | User Profile Management System\nTechnologies: Node.js, Express.js, MongoDB, Postman\nDeveloped RESTful APIs with CRUD operations to manage 1,000+ user profiles, enhancing data retrieval speed by 40%. Implemented JWT authentication, reducing unauthorized access incidents by 90%. Optimized MongoDB indexing, achieving less than 200ms average response time.\n\nData Analyst | COVID-19 Vaccination Analysis\nTechnologies: SQL, Power BI\nAnalyzed 50,000+ patient records to track Covishield vaccination rates across 15 Indian states. Created interactive Power BI dashboards to visualize state-wise trends, improving stakeholder decision-making efficiency by 35%.\n\nCERTIFICATIONS\n\nMongoDB Certified Developer Associate | MongoDB | 2023\nFull-Stack Development Workshop | KaaShiv InfoTech | 2023\nAI & Computer Vision Masterclass | NoviTech R&D | 2023",
+  "file_metadata": {
+    "Title": "PRAVEEN KUMAR B_test1.docx",
+    "Creator": "Canva",
+    "Producer": "Canva",
+    "CreationDate": "D:20250418025510+00'00'",
+    "ModDate": "D:20250418025510+00'00'",
+    "Keywords": "DAGk8horfik,BAFz0Ji1JUI,0",
+    "Author": "Praveen kumar B"
+  },
+  "meta": {
+    "message": "Resume parsed successfully.",
+    "file_hash": "9eac324f3e5ffa6257d637c438d36591",
+    "runtime_ms": 38.022709
+  }
+}

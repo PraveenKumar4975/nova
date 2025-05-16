@@ -1,0 +1,98 @@
+{
+  "parsed": {
+    "name": "Ranjith Sanmugam",
+    "title": "Student of Computer Science and Engineering",
+    "brief": "I am a passionate student of Computer Science and Engineering. With a strong foundation in programming languages and web development technologies, I am constantly exploring and honing my skills to become a proficient software engineer.",
+    "contact": {
+      "location_city": null,
+      "location_country": null,
+      "email": "ranjithranji9025@gmail.com",
+      "phone": "+91 9025094665",
+      "linkedin": "LinkedIn Portfolio",
+      "github": null,
+      "twitter": null,
+      "website": null
+    },
+    "employment_history": [
+      {
+        "title": "Web Developer Intern",
+        "company": "TechnoHacks Solutions Pvt. Ltd.",
+        "company_website": null,
+        "location": "India",
+        "start_date": "2024-07-01",
+        "end_date": "2024-07-31",
+        "roles": [],
+        "responsibilities": [
+          "Enhanced skills in front-end technologies, including HTML, CSS, and JavaScript.",
+          "Gained hands-on experience with responsive design and collaborative coding practices."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Engineering in Computer Science",
+        "institution_name": "Mailam Engineering College",
+        "institution_country": "India",
+        "start_date": "2021-08-01",
+        "end_date": "2025-05-31"
+      },
+      {
+        "degree": "Higher Secondary Certificate (HSC)",
+        "institution_name": "J.M.J Matric.Hr.sec.School, Marakkanam",
+        "institution_country": "India",
+        "start_date": "2020-06-01",
+        "end_date": "2021-05-31"
+      },
+      {
+        "degree": "Secondary School Leaving Certificate (SSLC)",
+        "institution_name": "J.M.J Matric.Hr.sec.School, Marakkanam",
+        "institution_country": "India",
+        "start_date": "2018-06-01",
+        "end_date": "2019-05-31"
+      }
+    ],
+    "skills": [
+      "Python",
+      "SQL (CRUD)",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git",
+      "GitHub",
+      "Bootstrap",
+      "Designing (Figma)",
+      "Leadership Quality",
+      "Communication"
+    ],
+    "courses": [
+      "Fullstack Program [AICL, Chennai]",
+      "TCS ion Career Edge-Young Professional Certificate",
+      "Machine Learning Using Python Course Certification"
+    ],
+    "languages": [
+      "English"
+    ],
+    "references": [],
+    "derived": {
+      "years_of_experience": 0.6,
+      "approximate_age": 22
+    },
+    "driving_license_present": null,
+    "driving_license_id": null
+  },
+  "normalized_text": "RANJITH SANMUGAM  \nContact: +91 9025094665 | Email: ranjithranji9025@gmail.com | LinkedIn: Portfolio  \n\nCAREER OBJECTIVE  \nI am a passionate student of Computer Science and Engineering. With a strong foundation in programming languages and web development technologies, I am constantly exploring and honing my skills to become a proficient software engineer.\n\nEDUCATION  \nMailam Engineering College, Villupuram (2021 - 2025)  \n- Bachelor of Engineering in Computer Science, Final Year  \n- CGPA: 8.59 (Up to 6th Semester)  \n\nJ.M.J Matric.Hr.Sec.School, Marakkanam (2020 - 2021)  \n- HSC - Percentage: 80.6%  \n\nJ.M.J Matric.Hr.Sec.School, Marakkanam (2018 - 2019)  \n- SSLC - Percentage: 74.6%  \n\nSKILLS  \n- Programming Languages: Python, SQL (CRUD)  \n- Web Development: HTML, CSS, JavaScript, Git, GitHub, Bootstrap  \n- Soft Skills: Designing (Figma), Leadership Quality, Communication  \n\nPROJECTS  \n1. Website Development  \n   - Developed a responsive e-commerce website using HTML, CSS, and JavaScript, ensuring a seamless user experience.  \n   - Designed a responsive layout for multi-device compatibility.  \n   - Optimized the website for fast load times and smooth performance.  \n   - Designed user-friendly UI/UX elements for a visually appealing shopping experience.  \n\n2. Analyse the COVID-19 Data  \n   - Utilized SQL and Power BI to visualize COVID-19 vaccination and case data by state.  \n   - Queried and analyzed COVID-19 patient data using SQL.  \n   - Employed Power BI for visualizing vaccine distribution by state.  \n   - Tracked and reported the number of positive and negative COVID-19 cases.  \n\nINTERNSHIP  \nWeb Developer Intern at TechnoHacks Solutions Pvt. Ltd. (July 2024)  \n- Enhanced skills in front-end technologies, including HTML, CSS, and JavaScript.  \n- Gained hands-on experience with responsive design and collaborative coding practices.  \n\nAREA OF INTEREST  \n- Software Developer  \n- Web Developer  \n\nCERTIFICATIONS AND PARTICIPATIONS  \n- Fullstack Program Certificate [AICL, Chennai]  \n- TCS iON Career Edge - Young Professional Certificate  \n- Machine Learning Using Python Course Certification  \n- Fullstack Program Certificate [AICL, Chennai]",
+  "file_metadata": {
+    "Title": "RanjithSanmugamResume.pdf",
+    "Creator": "Canva",
+    "Producer": "Canva",
+    "CreationDate": "D:20250307091157+00'00'",
+    "ModDate": "D:20250307091156+00'00'",
+    "Keywords": "DAGhCRXj9Do,BAGNwIjoS6Y,0",
+    "Author": "Ranjith S"
+  },
+  "meta": {
+    "message": "Resume parsed successfully.",
+    "file_hash": "dbc5cbac197829d6507b0d2b4023a78a",
+    "runtime_ms": 11.403461
+  }
+}

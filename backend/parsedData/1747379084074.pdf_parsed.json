@@ -1,0 +1,83 @@
+{
+  "parsed": {
+    "name": "Parthasarathi K",
+    "title": "Software Developer",
+    "brief": "A dedicated and skilled software developer with hands-on experience gained through an internship at VEI TECHNOLOGIES, seeking to contribute technical expertise and innovative solutions in a dynamic team environment.",
+    "contact": {
+      "location_city": "Villupuram",
+      "location_country": "India",
+      "email": "kparthasarathikuppusamy@gmail.com",
+      "phone": "9791381266",
+      "linkedin": null,
+      "github": null,
+      "twitter": null,
+      "website": null
+    },
+    "employment_history": [
+      {
+        "title": "Intern in WEB Development",
+        "company": "VEI TECHNOLOGIES",
+        "company_website": null,
+        "location": "India",
+        "start_date": "2023-06-01",
+        "end_date": "2023-07-01",
+        "roles": [
+          {
+            "role": "WEB Developer",
+            "responsibilities": [
+              "Gained hands-on experience in web development",
+              "Contributed technical expertise and innovative solutions in a dynamic team environment"
+            ]
+          }
+        ],
+        "responsibilities": [
+          "Contributed technical expertise and innovative solutions in a dynamic team environment"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "BE Computer Science and Engineering",
+        "institution_name": "Mailam Engineering College",
+        "institution_country": "India",
+        "start_date": null,
+        "end_date": "2025-01-01"
+      }
+    ],
+    "skills": [
+      "Web development",
+      "Back-end development",
+      "JAVA",
+      "SQL",
+      "Netbeans",
+      "Github"
+    ],
+    "courses": [
+      "Web designing - KaaShiv info",
+      "Web development - codebind"
+    ],
+    "languages": [],
+    "references": [],
+    "derived": {
+      "years_of_experience": 2,
+      "approximate_age": 22
+    },
+    "driving_license_present": null,
+    "driving_license_id": null
+  },
+  "normalized_text": "PARTHASARATHI K  \nEmail: kparthasarathikuppusamy@gmail.com  \nPhone: 9791381266  \nLocation: Villupuram, India  \n\nEducation  \nBE in Computer Science and Engineering, Mailam Engineering College  \nGraduation: 2025  \n(CGPA: 8.37)  \n\nProjects  \n\nWeather Application (Java, OpenWeatherMap API)  \nDuration: 02/2024 – 03/2024  \n- Developed a Java-based weather application to fetch real-time weather data using the OpenWeatherMap API.  \n- Implemented robust error handling to manage invalid city names and incorrect API keys.  \n- Built a Java-based graphical user interface for an interactive experience.  \n- Designed the application to support real-time updates, displaying current weather conditions.  \n\nAnalyze COVID-19 Data Project (Snowflake, SQL, Power BI)  \nDuration: 03/2024 – 04/2024  \n- Analyzed global and regional COVID-19 data, focusing on recovery rates and vaccination progress.  \n- Used SQL queries to extract, filter, and analyze financial data to uncover valuable insights.  \n- Developed interactive Power BI dashboards, providing clear visualizations of trends and patterns within COVID-19 data.  \n- Maintained data accuracy and relevance through continuous query refinement and advanced visualization techniques.  \n\nInternship  \n\nWeb Development Intern  \nVEI TECHNOLOGIES  \nDuration: 06/2023 – 07/2023  \n- A dedicated and skilled web developer with hands-on experience gained through an internship at VEI TECHNOLOGIES.  \n- Seeking to contribute technical expertise and innovative solutions in a dynamic team environment.  \n\nSkills  \n\nSoftware Development:  \n- Web development  \n- Back-end development  \n\nProgramming Languages:  \n- Java  \n- SQL  \n\nTools:  \n- NetBeans  \n- GitHub  \n\nCertificates  \n- Web Designing - KaaShiv Info  \n- Web Development - Codebind",
+  "file_metadata": {
+    "Title": "Weather Application (Java, OpenWeatherMap API, )",
+    "Creator": "Canva",
+    "Producer": "Canva",
+    "CreationDate": "D:20250122143855+00'00'",
+    "ModDate": "D:20250122143855+00'00'",
+    "Keywords": "DAGc7naj6zQ,BAGXHKWKVmI",
+    "Author": "PARTHASARATHI K"
+  },
+  "meta": {
+    "message": "Resume parsed successfully.",
+    "file_hash": "45f2c09ebf89a28e9f0da263d244e7cc",
+    "runtime_ms": 61.767137
+  }
+}

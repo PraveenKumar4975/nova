@@ -1,0 +1,73 @@
+{
+  "parsed": {
+    "name": "Parthasarathi K",
+    "title": "Software Developer",
+    "brief": "A dedicated and skilled WEB developer with hands-on experience, seeking to contribute technical expertise and innovative solutions in a dynamic team environment.",
+    "contact": {
+      "location_city": "Villupuram",
+      "location_country": "India",
+      "email": "kparthasarathikuppusamy@gmail.com",
+      "phone": "9791381266",
+      "linkedin": null,
+      "github": null,
+      "twitter": null,
+      "website": null
+    },
+    "employment_history": [
+      {
+        "title": "Intern in WEB Development",
+        "company": "VEI TECHNOLOGIES",
+        "company_website": null,
+        "location": "Villupuram, India",
+        "start_date": "2023-06-01",
+        "end_date": "2023-07-01",
+        "roles": [],
+        "responsibilities": []
+      }
+    ],
+    "education": [
+      {
+        "degree": "Bachelors (CGPA-8.37)",
+        "institution_name": "",
+        "institution_country": null,
+        "start_date": null,
+        "end_date": null
+      }
+    ],
+    "skills": [
+      "Web development",
+      "Back-end development",
+      "JAVA",
+      "SQL",
+      "Netbeans",
+      "Github"
+    ],
+    "courses": [
+      "Web designing -KaaShiv info",
+      "Web development-codebind"
+    ],
+    "languages": [],
+    "references": [],
+    "derived": {
+      "years_of_experience": 2,
+      "approximate_age": 23
+    },
+    "driving_license_present": null,
+    "driving_license_id": null
+  },
+  "normalized_text": "PARTHASARATHI K  \nEmail: kparthasarathikuppusamy@gmail.com  \nPhone: 9791381266  \nLocation: Villupuram, India  \nCGPA: 8.37\n\n---\n\n**PROJECTS**\n\n**Weather Application (Java, OpenWeatherMap API)**  \nFebruary 2024 – March 2024\n\n- Developed a Java-based weather application to fetch real-time weather data using OpenWeatherMap API.\n- Implemented robust error handling to manage invalid city names and incorrect API keys.\n- Built a Java-based graphical user interface for interactivity.\n- Designed the application to support real-time updates, displaying current weather conditions.\n\n**Analyze COVID-19 Data Project (Snowflake, SQL, Power BI)**  \nMarch 2024 – April 2024\n\n- Analyzed global and regional COVID-19 data recovery rates and vaccination progress.\n- Used SQL queries to extract, filter, and analyze financial data to uncover valuable insights.\n- Developed interactive Power BI dashboards providing clear visualizations of trends and patterns within COVID-19 data.\n- Maintained data accuracy and relevance through continuous query refinement and advanced visualization techniques.\n\n---\n\n**INTERNSHIP**\n\n**Intern in Web Development**  \nVEI Technologies  \nJune 2023 – July 2023\n\n- A dedicated and skilled web developer with hands-on experience gained through an internship at VEI Technologies.\n- Seeking to contribute technical expertise and innovative solutions in a dynamic team environment.\n\n---\n\n**SKILLS**\n\n- Software Development:\n  - Web development\n  - Back-end development\n\n- Programming Languages:\n  - JAVA\n  - SQL\n\n- Tools:\n  - Netbeans\n  - GitHub\n\n---\n\n**CERTIFICATES**\n\n- Web Designing - KaaShiv Info\n- Web Development - Codebind",
+  "file_metadata": {
+    "Title": "Weather Application (Java, OpenWeatherMap API, )",
+    "Author": "PARTHASARATHI K",
+    "Keywords": "DAGc7naj6zQ,BAGXHKWKVmI",
+    "Creator": "Microsoft® Word 2016",
+    "CreationDate": "D:20250309082658+00'00'",
+    "Producer": "www.ilovepdf.com",
+    "ModDate": "D:20250309082658Z"
+  },
+  "meta": {
+    "message": "Resume parsed successfully.",
+    "file_hash": "9046e4707473b9c1882de4737db29db7",
+    "runtime_ms": 86.772479
+  }
+}
